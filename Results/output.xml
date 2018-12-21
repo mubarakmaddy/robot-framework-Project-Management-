@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generated="20181219 15:47:56.010" generator="Robot 3.0.4 (Python 2.7.14 on win32)">
+<suite source="D:\D\robot-framework(Project Management)\Project\GreytHR\Tests\Admin\ProjectManagement.robot" id="s1" name="ProjectManagement">
+<test id="s1-t1" name="User must be able to create the project">
+<kw type="setup" name="Begin Web Test" library="Common">
+<kw name="Open Browser" library="Selenium2Library">
+<doc>Opens a new browser instance to given URL.</doc>
+<arguments>
+<arg>about:blank</arg>
+<arg>gc</arg>
+</arguments>
+<msg timestamp="20181219 15:47:57.646" level="INFO">Opening browser 'gc' to base url 'about:blank'</msg>
+<status status="PASS" endtime="20181219 15:48:00.438" starttime="20181219 15:47:57.646"></status>
+</kw>
+<kw name="Maximize Browser Window" library="Selenium2Library">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" endtime="20181219 15:48:01.554" starttime="20181219 15:48:00.438"></status>
+</kw>
+<status status="PASS" endtime="20181219 15:48:01.554" starttime="20181219 15:47:57.646"></status>
+</kw>
+<kw name="Login To GreytHR Application" library="PMAdminApp">
+<kw name="Load GreytHR" library="LoginPage">
+<kw name="Go To" library="Selenium2Library">
+<doc>Navigates the active browser instance to the provided URL.</doc>
+<arguments>
+<arg>http://project.gtin.gr8hr.biz</arg>
+</arguments>
+<msg timestamp="20181219 15:48:01.556" level="INFO">Opening url 'http://project.gtin.gr8hr.biz'</msg>
+<status status="PASS" endtime="20181219 15:48:48.437" starttime="20181219 15:48:01.555"></status>
+</kw>
+<status status="PASS" endtime="20181219 15:48:48.437" starttime="20181219 15:48:01.555"></status>
+</kw>
+<kw name="Enter User Name" library="LoginPage">
+<kw name="Wait Until Page Contains Element" library="Selenium2Library">
+<doc>Waits until element specified with `locator` appears on current page.</doc>
+<arguments>
+<arg>${LoginPage_UserName_TextField}</arg>
+<arg>2s</arg>
+</arguments>
+<status status="PASS" endtime="20181219 15:48:48.469" starttime="20181219 15:48:48.438"></status>
+</kw>
+<kw name="Input Text" library="Selenium2Library">
+<doc>Types the given `text` into text field identified by `locator`.</doc>
+<arguments>
+<arg>${LoginPage_UserName_TextField}</arg>
+<arg>admin</arg>
+</arguments>
+<msg timestamp="20181219 15:48:48.470" level="INFO">Typing text 'admin' into text field 'name=j_username'</msg>
+<status status="PASS" endtime="20181219 15:48:48.558" starttime="20181219 15:48:48.470"></status>
+</kw>
+<status status="PASS" endtime="20181219 15:48:48.558" starttime="20181219 15:48:48.438"></status>
+</kw>
+<kw name="Enter Password" library="LoginPage">
+<kw name="Input Password" library="Selenium2Library">
+<doc>Types the given password into text field identified by `locator`.</doc>
+<arguments>
+<arg>${LoginPage_Password_TextField}</arg>
+<arg>sa</arg>
+</arguments>
+<msg timestamp="20181219 15:48:48.560" level="INFO">Typing password into text field 'name=j_password'</msg>
+<status status="PASS" endtime="20181219 15:48:48.638" starttime="20181219 15:48:48.559"></status>
+</kw>
+<status status="PASS" endtime="20181219 15:48:48.638" starttime="20181219 15:48:48.559"></status>
+</kw>
+<kw name="Click on Login button" library="LoginPage">
+<kw name="Click Button" library="Selenium2Library">
+<doc>Clicks a button identified by `locator`.</doc>
+<arguments>
+<arg>${LoginPage_Login_Button}</arg>
+</arguments>
+<msg timestamp="20181219 15:48:48.639" level="INFO">Clicking button 'id=login-button'.</msg>
+<status status="PASS" endtime="20181219 15:48:48.733" starttime="20181219 15:48:48.639"></status>
+</kw>
+<status status="PASS" endtime="20181219 15:48:48.733" starttime="20181219 15:48:48.638"></status>
+</kw>
+<kw name="Verify Home page is loaded" library="GreytHRHomePage">
+<kw name="Wait Until Page Contains Element" library="Selenium2Library">
+<doc>Waits until element specified with `locator` appears on current page.</doc>
+<arguments>
+<arg>${GHR_HomePageTitle}</arg>
+<arg>10sec</arg>
+</arguments>
+<kw name="Capture Page Screenshot" library="Selenium2Library">
+<doc>Takes a screenshot of the current page and embeds it into the log.</doc>
+<msg timestamp="20181219 15:48:59.177" html="yes" level="INFO">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-1.png"&gt;&lt;img src="selenium-screenshot-1.png" width="800px"&gt;&lt;/a&gt;</msg>
+<status status="PASS" endtime="20181219 15:48:59.177" starttime="20181219 15:48:58.832"></status>
+</kw>
+<msg timestamp="20181219 15:48:59.259" level="FAIL">Element 'xpath=//a[@href="#feeds"]' did not appear in 10 seconds</msg>
+<status status="FAIL" endtime="20181219 15:48:59.259" starttime="20181219 15:48:48.734"></status>
+</kw>
+<status status="FAIL" endtime="20181219 15:48:59.260" starttime="20181219 15:48:48.733"></status>
+</kw>
+<status status="FAIL" endtime="20181219 15:48:59.260" starttime="20181219 15:48:01.555"></status>
+</kw>
+<kw type="teardown" name="End Web Test">
+<msg timestamp="20181219 15:48:59.267" level="FAIL">No keyword with name 'End Web Test' found.</msg>
+<status status="FAIL" endtime="20181219 15:48:59.267" starttime="20181219 15:48:59.267">No keyword with name 'End Web Test' found.</status>
+</kw>
+<tags>
+<tag>"Functional"</tag>
+</tags>
+<status status="FAIL" endtime="20181219 15:48:59.268" critical="yes" starttime="20181219 15:47:57.645">Element 'xpath=//a[@href="#feeds"]' did not appear in 10 seconds
+
+Also teardown failed:
+No keyword with name 'End Web Test' found.</status>
+</test>
+<doc>Project Managemnt Automation is starting...</doc>
+<status status="FAIL" endtime="20181219 15:48:59.285" starttime="20181219 15:47:56.013"></status>
+</suite>
+<statistics>
+<total>
+<stat fail="1" pass="0">Critical Tests</stat>
+<stat fail="1" pass="0">All Tests</stat>
+</total>
+<tag>
+<stat fail="1" pass="0">"Functional"</stat>
+</tag>
+<suite>
+<stat fail="1" id="s1" name="ProjectManagement" pass="0">ProjectManagement</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

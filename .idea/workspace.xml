@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="451aec06-452b-45e6-b6f1-b2a3ad2315aa" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="robot-framework" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Project/GreytHR/Tests/Admin/ProjectManagement.robot">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-357">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project/GreytHR/Resources/Admin/PMAdminApp.robot">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#545#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project/GreytHR/Resources/Admin/ProjectManagement/Overview/ProjectOverview.robot">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="799">
+              <caret line="48" column="81" selection-start-line="48" selection-start-column="81" selection-end-line="48" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project/GreytHR/Resources/Admin/ProjectManagement/Overview/CreateProjectForm.robot">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1530">
+              <caret line="91" selection-start-line="91" selection-end-line="91" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project/GreytHR/Resources/Admin/ProjectManagement/Overview/UpdateProjectForm.robot">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project/GreytHR/Resources/Admin/ProjectManagement/Workdays/ProjectWorkdays.robot">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project/GreytHR/Resources/Admin/Home_PO/GreytHRHomePage.robot">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Create</find>
+      <find>Set</find>
+      <find>{project_created_success_banner}</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Update</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Project/GreytHR/Tests/Admin/PrjectManagement.robot" />
+        <option value="$PROJECT_DIR$/Project/GreytHR/Tests/Admin/TaskManagement.robot" />
+        <option value="$PROJECT_DIR$/Project/GreytHR/Resources/Admin/ProjectManagement/ProjectOverview/Overview" />
+        <option value="$PROJECT_DIR$/Project/GreytHR/Resources/Admin/ProjectManagement/Overview/UpdateProject.robot" />
+        <option value="$PROJECT_DIR$/Project/GreytHR/Resources/Admin/TaskManagement_PO/TM_CreateTaskForm.robot" />
+        <option value="$PROJECT_DIR$/Project/GreytHR/Resources/Admin/TaskManagement_PO/TM_LandingPage.robot" />
+        <option value="$PROJECT_DIR$/Project/GreytHR/Resources/Admin/Navigation_PO/GreytHRNavigation.robot" />
+        <option value="$PROJECT_DIR$/Project/GreytHR/Resources/Employee/Admin/ExcelImport.robot" />
+        <option value="$PROJECT_DIR$/Project/GreytHR/Resources/Admin/ProjectManagement/Workdays/ProjectWorkdays.robot" />
+        <option value="$PROJECT_DIR$/Project/GreytHR/Resources/Admin/ProjectManagement/Overview/UpdateProjectForm.robot" />
+        <option value="$PROJECT_DIR$/Project/GreytHR/Resources/Admin/Home_PO/GreytHRHomePage.robot" />
+        <option value="$PROJECT_DIR$/Project/GreytHR/Resources/Admin/ProjectManagement/Overview/ProjectOverview.robot" />
+        <option value="$PROJECT_DIR$/Project/GreytHR/Resources/Common.robot" />
+        <option value="$PROJECT_DIR$/Project/GreytHR/Resources/Admin/SignInAndSignOut_PO/LoginPage.robot" />
+        <option value="$PROJECT_DIR$/Project/GreytHR/Resources/Admin/PMAdminApp.robot" />
+        <option value="$PROJECT_DIR$/Project/GreytHR/Resources/Admin/ProjectManagement/Overview/CreateProjectForm.robot" />
+        <option value="$PROJECT_DIR$/Project/GreytHR/Tests/Admin/ProjectManagement.robot" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1438" />
+    <option name="height" value="868" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Course" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="robot-framework(Project Management)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="robot-framework(Project Management)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="robot-framework(Project Management)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="robot-framework(Project Management)" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="robot-framework(Project Management)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="robot-framework(Project Management)" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="GreytHR" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="robot-framework(Project Management)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="robot-framework(Project Management)" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="GreytHR" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="robot-framework(Project Management)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="robot-framework(Project Management)" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="GreytHR" type="462c0819:PsiDirectoryNode" />
+              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="robot-framework(Project Management)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="robot-framework(Project Management)" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="GreytHR" type="462c0819:PsiDirectoryNode" />
+              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="robot-framework(Project Management)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="robot-framework(Project Management)" type="462c0819:PsiDirectoryNode" />
+              <item name="Results" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="451aec06-452b-45e6-b6f1-b2a3ad2315aa" name="Default" comment="" />
+      <created>1516167912017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516167912017</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49338374" visible="true" weight="0.17553866" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.50661623" side_tool="true" weight="0.22370088" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3288948" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5101394" side_tool="true" weight="0.29560587" />
+      <window_info anchor="bottom" x="11" y="304" width="1578" height="251" id="Python Console" order="8" weight="0.3396482" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4898606" visible="true" weight="0.25706595" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="11" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/Python27/Lib/site-packages/robot/libraries/BuiltIn.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/Selenium2Library/keywords/_selectelement.py" />
+    <entry file="file://$PROJECT_DIR$/Results/selenium-screenshot-1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Results/selenium-screenshot-2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/robot/libraries/OperatingSystem.py" />
+    <entry file="file://$PROJECT_DIR$/Project/GreytHR/Resources/Admin/Navigation_PO/GreytHRNavigation.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="29" selection-start-line="29" selection-end-line="29" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/GreytHR/Resources/Admin/TaskManagement_PO/TM_CreateTaskForm.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="793">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/GreytHR/Resources/Admin/TaskManagement_PO/TM_LandingPage.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/GreytHR/Resources/Admin/TaskManagement_PO/TM_OnbordingPage.robot">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/.idea/task-management.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/GreytHR/Tests/Admin/TaskManagement.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/GreytHR/Resources/Admin/TMAdminApp.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#362#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/GreytHR/Resources/Employee/Admin/ExcelImport.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Results/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Results/output.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/GreytHR/Data/InputData.robot">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/Selenium2Library/keywords/_browsermanagement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="98" column="34" selection-start-line="98" selection-start-column="34" selection-end-line="98" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/Selenium2Library/keywords/_waiting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/GreytHR/Resources/Common.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/GreytHR/Resources/Admin/SignInAndSignOut_PO/LoginPage.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/GreytHR/Tests/Admin/ProjectManagement.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/GreytHR/Resources/Admin/PMAdminApp.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#545#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/GreytHR/Resources/Admin/ProjectManagement/Overview/ProjectOverview.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="48" column="81" selection-start-line="48" selection-start-column="81" selection-end-line="48" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/GreytHR/Resources/Admin/ProjectManagement/Overview/CreateProjectForm.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/GreytHR/Resources/Admin/ProjectManagement/Overview/UpdateProjectForm.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/GreytHR/Resources/Admin/ProjectManagement/Workdays/ProjectWorkdays.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/GreytHR/Resources/Admin/Home_PO/GreytHRHomePage.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

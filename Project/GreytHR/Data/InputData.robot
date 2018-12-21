@@ -1,0 +1,3 @@
+*** Variables ***
+${Browser} =  chrome
+${URL} =
